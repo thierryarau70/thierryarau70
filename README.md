@@ -5,6 +5,8 @@
 
 -I have expertise in various technologies but I am currently focused on React, Node.js, Vue and TypeScript.
 
+-I have courses in cybersecurity and basic practice
+
 -currently working with Vue and typescript  at A&3
 
 <div align="center">
